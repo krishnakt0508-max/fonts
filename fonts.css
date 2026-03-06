@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Majallab';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Majallab.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Majalla';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Majalla.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Serif-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Serif-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Serif-Bold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Serif-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Serif-Bold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Serif-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Serif';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Serif.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-SemiBold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-SemiBold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-SemiBold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Narrow-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Narrow-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Narrow-Bold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Narrow-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Narrow-Bold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Narrow-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Narrow';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Narrow.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Mono-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Mono-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Mono-Bold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Mono-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Mono-Bold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Mono-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Mono';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Mono.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Light-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Light-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Light';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-ExtraBold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-ExtraBold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-ExtraBold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Display-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Display-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Display-Bold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Display-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Display-Bold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Display-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Display';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Display.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Bold-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Bold';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Black-Italic';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Black-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos-Black';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('https://raw.githubusercontent.com/krishnakt0508-max/fonts/main/Aptos.ttf') format('truetype');
+}
